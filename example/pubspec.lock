@@ -103,8 +103,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: acdbe8b
-      resolved-ref: acdbe8b056e3ae98b21baca4e499768356759b17
+      ref: "3bd2992"
+      resolved-ref: "3bd299272564e614cdfce8dd66a7080ce408e1ac"
       url: "https://github.com/clintontopclass/screen_recording_web"
     source: git
     version: "1.0.2"

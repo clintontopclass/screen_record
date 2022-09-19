@@ -18,7 +18,7 @@ dependencies:
   flutter_screen_recording_web:
     git:
       url : https://github.com/clintontopclass/screen_recording_web
-      ref : "acdbe8b"
+      ref : "3bd2992"
 
 dev_dependencies:
   flutter_test:
