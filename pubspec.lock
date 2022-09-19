@@ -79,16 +79,20 @@ packages:
   flutter_screen_recording_platform_interface:
     dependency: "direct main"
     description:
-      path: "includes/flutter_screen_recording_platform_interface"
-      relative: true
-    source: path
+      path: "."
+      ref: a1756ae
+      resolved-ref: a1756ae1d63669c8caf857db4934c911aeeac27f
+      url: "https://github.com/clintontopclass/screen_recording_platform_interface"
+    source: git
     version: "1.0.0"
   flutter_screen_recording_web:
     dependency: "direct main"
     description:
-      path: "includes/flutter_screen_recording_web"
-      relative: true
-    source: path
+      path: "."
+      ref: acdbe8b
+      resolved-ref: acdbe8b056e3ae98b21baca4e499768356759b17
+      url: "https://github.com/clintontopclass/screen_recording_web"
+    source: git
     version: "1.0.2"
   flutter_test:
     dependency: "direct dev"
